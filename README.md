@@ -1,0 +1,8 @@
+1. [MacOS Config](Macos_config.md)
+2. [Recommended MacOS Apps](Recommended_MacOS_Apps.md)
+3. [IDE / Text Editor Config](IDE_Text_Editor_Config.md)
+4. [Drupal Installation](Drupal_Installation.md)
+5. [Local Drupal Config](Local_Drupal_Config.md)
+6. [Browser Config](Browser_Config.md)
+7. [Shell Config](Shell_config.md)
+8. [Git Config](GIT_Config.md)
