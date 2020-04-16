@@ -2,7 +2,7 @@
 
 ## Must have:
 #### Increase text traversal speed:
-- System Preference > Accessibility > Display:
+- System Preference > Keyboard:
   - Key repeat: fastest
   - Delat until repeat: shortest
 
@@ -22,6 +22,6 @@
   - Franz etc
 ### Accessibility:
 #### Display resolution:
-- System Preference > Accessibility > Display:
+- System Preference > Display:
   - Change Resolution to 'Scaled' + 'large' or 'larger text'
 
